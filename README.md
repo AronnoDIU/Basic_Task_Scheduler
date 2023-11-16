@@ -21,7 +21,7 @@ A simple task scheduler that allows you to schedule and execute tasks at specifi
 1. Clone the repository:
 
 ```shell
-git clone https://github.com/your-username/Basic_Task_Scheduler.git
+git clone https://github.com/AronnoDIU/Basic_Task_Scheduler
 ```
 
 ## Usage
