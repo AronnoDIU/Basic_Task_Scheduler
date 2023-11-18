@@ -5,6 +5,7 @@ public class TaskSchedulerMain {
         TaskScheduler taskScheduler = new TaskScheduler(); // Create an instance of TaskScheduler
         Scanner userInput = new Scanner(System.in);
 
+        // Menu for Task Scheduler
         while (true) {
             System.out.println("\nTask Scheduler Menu:");
             System.out.println("1. Add Task");
