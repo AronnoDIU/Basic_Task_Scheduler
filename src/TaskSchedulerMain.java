@@ -16,6 +16,7 @@ public class TaskSchedulerMain {
             System.out.print("Enter your choice: ");
             int choice = userInput.nextInt(); // Read user input as an integer
 
+            // Process user choice and call the appropriate method
             switch (choice) {
                 case 1: // For Add task
                     taskScheduler.addTask();
